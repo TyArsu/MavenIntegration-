@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MavenTestNGHomeWork">
+	<test name="MavenPackageTests">
+		<packages>
+		
+			<package name="com.codistan.qaclass1.maven" />
+			
+
+		</packages>
+
+	</test>
+
+
+</suite>

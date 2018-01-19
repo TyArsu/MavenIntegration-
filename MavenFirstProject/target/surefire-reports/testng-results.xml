@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="MavenTestNGHomeWork" duration-ms="28237" started-at="2018-01-19T22:16:15Z" finished-at="2018-01-19T22:16:43Z">
+    <groups>
+    </groups>
+    <test name="MavenPackageTests" duration-ms="28237" started-at="2018-01-19T22:16:15Z" finished-at="2018-01-19T22:16:43Z">
+      <class name="com.codistan.qaclass1.maven.MavenTest3">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.codistan.qaclass1.maven.MavenTest3@49e4cb85]" name="Test1" duration-ms="13361" started-at="2018-01-19T16:16:30Z" finished-at="2018-01-19T16:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- com.codistan.qaclass1.maven.MavenTest3 -->
+      <class name="com.codistan.qaclass1.maven.MavenTest1">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:com.codistan.qaclass1.maven.MavenTest1@48140564]" name="Test1" duration-ms="14850" started-at="2018-01-19T16:16:15Z" finished-at="2018-01-19T16:16:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- com.codistan.qaclass1.maven.MavenTest1 -->
+    </test> <!-- MavenPackageTests -->
+  </suite> <!-- MavenTestNGHomeWork -->
+</testng-results>
